@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matheo404
+- 👀 I’m interested in javascript and perl
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on any project you have
+- 📫 How to reach me : matheo404#3605 on discord
